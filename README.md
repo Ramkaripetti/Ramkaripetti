@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramanjaneyulu_karipetti
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Machine Learning,Embedded Systems,VLSI.
 - 🌱 I’m currently pursuing B.Tech in the department of ECE.
 - 💞️ I’m looking to collaborate on ML related work.
 - 📫 Reach me via ramanjaneyukukaripetti@gmail.com
